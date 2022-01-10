@@ -7,8 +7,8 @@
 * [과제 제출 방법](https://github.com/next-step/nextstep-docs/tree/master/precourse)
 
 ### 기능 설계
-  - #### Randoms 함수의 pickNumberInRange(1, 9)를 사용하여 ArrayList에 담는 메소드
+  - #### Randoms 함수의 pickNumberInRange(1, 9)를 사용하여 array에 담는 메소드
   - #### while() 안에서 3스트라이크가 나올 때 까지, Console.readLine()으로 입력을 받는 메소드
   - #### pickNumberInRange의 값과 입력받은 값을 비교해서 일치하는지 확인하는 메소드
-  - #### 볼, 스트라이크 출력하는 메소드
-  - #### 만약 일치한다면, 새로시작은 다시 while 시작점, 아니면 break 하는 메소드
+  - #### 볼, 스트라이크, 낫싱 출력하는 메소드
+  - #### 만약, 3스트라이크 라면 새로시작은 다시 랜덤 숫자 초기화, 아니면 while 종료
